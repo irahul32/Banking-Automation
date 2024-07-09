@@ -1,6 +1,9 @@
 # Banking-Automation using Python and SQLite
 It is a Desktop Based Application. The development of the front end uses Tkinter, and SQLite is used for back-end connectivity. Please go ahead and install the required packages to run the application.
 # Screenshots
-![Mainwindow](https://github.com/irahul32/Banking-Automation/assets/144130758/643d9f5d-b3ed-475a-8f97-6828090e499e)
-![openaccount](https://github.com/irahul32/Banking-Automation/assets/144130758/91181340-0401-45f9-8c56-17accb93ac1a)
-![Forgotpassword](https://github.com/irahul32/Banking-Automation/assets/144130758/9508874d-2a9f-42d1-a75e-e4aac21eb19c)
+![main screen](https://github.com/irahul32/Banking-Automation/assets/144130758/14a8e5a7-bee5-48fc-a2aa-8cadd4186329)
+![forgot pass](https://github.com/irahul32/Banking-Automation/assets/144130758/336764d2-41b5-4ea7-baad-d17c99d59628)
+![create account](https://github.com/irahul32/Banking-Automation/assets/144130758/b0f65ed4-7cd1-4295-8408-98f5ef22546e)
+![reset pass](https://github.com/irahul32/Banking-Automation/assets/144130758/dedc3ea9-cd53-408e-8cf6-4237a2e9bf89)
+
+
